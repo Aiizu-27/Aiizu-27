@@ -1,4 +1,4 @@
-# ⚡ >_ Lights • Code • Linux
+# >_ Lights • Code • Linux
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Coding-blueviolet?style=flat-square" />
