@@ -35,6 +35,9 @@
 
 ### 📫 Contacto
 <p align="left">
+<a href="https://www.instagram.com/_lucia_27_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
 <a href="mailto:luciiacampos.27@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
