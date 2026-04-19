@@ -1,9 +1,7 @@
 <div align="center">
 
-# Lucía • Code • Linux
-### `>_ Everything is a file.`
-
-<img src="https://capsule-render.vercel.app/render?type=soft&color=8A2BE2&height=150&section=header&text=Lucía.codes&fontSize=70&fontAlignY=40" width="100%" />
+# Lights • Code • Linux
+### >_ Everything is a file.
 
 ---
 
