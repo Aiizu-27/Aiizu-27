@@ -6,7 +6,7 @@
 </p>
 
 ### 👩‍💻 Sobre mí
-¡Hola! Soy **Lucía (Aiizu-27)**. Me apasiona el desarrollo de software, la gestión de bases de datos y trastear con entornos Linux. Actualmente enfocada en crear código limpio y eficiente.
+¡Hola! Soy **Lucía**. Me apasiona el desarrollo de software, la gestión de bases de datos y trastear con entornos Linux. Actualmente enfocada en crear código limpio y eficiente.
 
 - 🔭 Trabajando en proyectos con **PHP** y **Python**.
 - 🐧 Amante de la terminal y de personalizar mis `dotfiles`.
