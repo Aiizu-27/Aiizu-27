@@ -1,90 +1,67 @@
-# <p align="center"><img src="https://img.shields.io/badge/Lucía.codes-%238A2BE2?style=for-the-badge" /></p>
+<div align="center">
 
+# Lucía • Code • Linux
+### `>_ Everything is a file.`
+
+<img src="https://capsule-render.vercel.app/render?type=soft&color=8A2BE2&height=150&section=header&text=Lucía.codes&fontSize=70&fontAlignY=40" width="100%" />
+
+---
+
+### Conectemos
 <p align="center">
-  <a href="#about">About</a> • 
-  <a href="#skills">Skills</a> • 
-  <a href="#experience">Experience</a> • 
-  <a href="#contact">Contact</a>
+  <a href="mailto:luciiacampos.27@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_lucia_27_/"><img src="https://img.shields.io/badge/INSTAGRAM-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-<a name="about"></a>
-## 💜 About Me
+## Sobre mí
+¡Hola! Soy **Lucía**. Me apasiona el desarrollo de software, la gestión de bases de datos y trastear con entornos Linux. 
+Actualmente enfocada en crear código limpio y eficiente.
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <h3>¡Hola! Soy Lucía.</h3>
-      <p>Me apasiona el desarrollo de software, la gestión de bases de datos y trastear con entornos Linux.</p>
-      <p>Actualmente enfocada en crear código limpio y eficiente, personalizando mis <b>dotfiles</b> y dominando entornos <b>Unix-like</b>.</p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB0N3R3eXN5eXN5eXN5eXN5eXN5eXN5eXN5eXN5eXN5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKMGpxxSCS0XhG8/giphy.gif" width="120" alt="Pixel Purple Cat" />
-    </td>
-  </tr>
-</table>
+**Backend Developer** | **Linux Enthusiast** | **DB Administrator**
+*Amante de la terminal y de personalizar mis dotfiles.*
 
 ---
 
-<a name="skills"></a>
-## 🛠 Skills & Technologies
+## Tecnologías
+
+**Core Tech**
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**Infra & Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## Estadísticas
 
 <table border="0" align="center">
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Languages-%236f42c1?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/PHP-%238A2BE2?style=flat-square&logo=php&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Python-%238A2BE2?style=flat-square&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Bash-%238A2BE2?style=flat-square&logo=gnu-bash&logoColor=white" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiizu-27&layout=compact&theme=dracula&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" height="180px" />
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Database-%236f42c1?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/MySQL-%238A2BE2?style=flat-square&logo=mysql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/MariaDB-%238A2BE2?style=flat-square&logo=mariadb&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Design-%238A2BE2?style=flat-square" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Infrastructure-%236f42c1?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Linux-%238A2BE2?style=flat-square&logo=linux&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Docker-%238A2BE2?style=flat-square&logo=docker&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git-%238A2BE2?style=flat-square&logo=git&logoColor=white" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Aiizu-27&show_icons=true&theme=dracula&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117&count_private=true" height="180px" />
     </td>
   </tr>
 </table>
 
----
-
-<a name="experience"></a>
-## 🕒 Experience
-
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/2026-%238A2BE2?style=for-the-badge" /></td>
-    <td>
-      <b>Senior Backend Developer</b><br>
-      <i>Optimización de microservicios y arquitectura de bases de datos.</i>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/2025-%239b59b6?style=for-the-badge" /></td>
-    <td>
-      <b>Full Stack & Linux Admin</b><br>
-      <i>Automatización de sistemas con Bash y despliegues en entornos Linux.</i>
-    </td>
-  </tr>
-</table>
-
----
-
-<a name="contact"></a>
-### 📫 Contacto
-
-<p align="left">
-<a href="mailto:luciiacampos.27@gmail.com"><img src="https://img.shields.io/badge/Email-%238A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.instagram.com/_lucia_27_/"><img src="https://img.shields.io/badge/Instagram-%238A2BE2?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiizu-27&theme=dracula&currStreakNum=8A2BE2&sideLabels=ffffff&stroke=8A2BE2&fire=8A2BE2&dates=ffffff" />
 </p>
 
-<p align="right">
-  <img src="https://img.shields.io/badge/%22Everything%20is%20a%20file.%22-purple?style=social&logo=linux" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiizu-27&theme=dracula&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
+
+</div>
