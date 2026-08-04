@@ -46,10 +46,10 @@ Actualmente enfocada en crear código limpio y eficiente.
 <table border="0" align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiizu-27&layout=compact&theme=dracula&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" height="180px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i2-luciia&layout=compact&theme=dracula&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" height="180px" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Aiizu-27&show_icons=true&theme=dracula&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117&count_private=true" height="180px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=i2-luciia&show_icons=true&theme=dracula&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117&count_private=true" height="180px" />
     </td>
   </tr>
 </table>
