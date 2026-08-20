@@ -46,20 +46,20 @@ Actualmente enfocada en crear código limpio y eficiente.
 <table border="0" align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i2-luciia&layout=compact&theme=dracula&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" height="180px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i2byluciia&layout=compact&theme=dracula&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" height="180px" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=i2-luciia&show_icons=true&theme=dracula&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117&count_private=true" height="180px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=i2byluciia&show_icons=true&theme=dracula&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117&count_private=true" height="180px" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiizu-27&theme=dracula&currStreakNum=8A2BE2&sideLabels=ffffff&stroke=8A2BE2&fire=8A2BE2&dates=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i2byluciia&theme=dracula&currStreakNum=8A2BE2&sideLabels=ffffff&stroke=8A2BE2&fire=8A2BE2&dates=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiizu-27&theme=dracula&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=i2byluciia&theme=dracula&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 </div>
