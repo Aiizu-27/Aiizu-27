@@ -1,6 +1,7 @@
 <div align="center">
 
 # Light · Logic · Create
+
 ### `>_ Everything is a file.`
 
 **Building things, breaking things, learning how they work.**
@@ -24,7 +25,7 @@
 
 Hola, soy **Lucía**.
 
-Soy estudiante de **Ingeniería de la Inteligencia Artificial**, con formación en sistemas y una curiosidad bastante grande por entender qué ocurre detrás de las cosas.
+Tengo formación en sistemas y una curiosidad bastante grande por entender qué ocurre detrás de las cosas.
 
 Me gusta programar, trabajar con bases de datos, experimentar con Linux y construir mis propios proyectos y servicios.
 
@@ -108,3 +109,50 @@ My background in technical theatre and lighting.
 [██████████████░░░░░░] Networking
 [██████████████░░░░░░] Backend
 [████████████░░░░░░░░] Python
+```
+
+---
+
+## `$ philosophy`
+
+> I like understanding how things work,
+> not just making them work.
+
+```text
+Learn → Build → Break → Fix → Understand → Repeat
+```
+
+---
+
+## `$ stats`
+
+<table border="0" align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=i2byluciia&layout=compact&theme=dracula&title_color=514575&icon_color=514575&text_color=ffffff&bg_color=0d1117"
+        height="180px"
+      />
+    </td>
+
+```
+<td>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=i2byluciia&show_icons=true&theme=dracula&title_color=514575&icon_color=514575&text_color=ffffff&bg_color=0d1117&count_private=true"
+    height="180px"
+  />
+</td>
+```
+
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+### `>_ sudo apt install curiosity`
+
+**Light · Logic · Create**
+
+</div>
