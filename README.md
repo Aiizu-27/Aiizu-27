@@ -64,54 +64,6 @@ También vengo del mundo de la **iluminación técnica**, donde aprendí a traba
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-## `$ projects`
-
-### 🏠 LifeHub
-
-A personal ecosystem for managing projects, tasks, notes and other parts of everyday life.
-
-**Exploring:** databases · backend · self-hosting · Docker · services
-
----
-
-### 💊 Daily Dose
-
-A web application built with **PHP + MySQL + HTML + CSS + JavaScript**.
-
-A project where I experiment with backend development, databases and web architecture.
-
----
-
-### 🐧 Linux
-
-Experimenting with Linux environments, configuration, terminal workflows and system customization.
-
-**Currently exploring:** Arch Linux · Bash · dotfiles · services · networking
-
----
-
-### 💡 Light
-
-My background in technical theatre and lighting.
-
-**DMX · lighting design · patching · addressing · consoles · QLab**
-
----
-
-## `$ currently-learning`
-
-```text
-[████████████████░░░░] Linux
-[████████████████░░░░] Docker
-[████████████████░░░░] Homelab
-[██████████████░░░░░░] Networking
-[██████████████░░░░░░] Backend
-[████████████░░░░░░░░] Python
-```
-
----
 
 ## `$ philosophy`
 
