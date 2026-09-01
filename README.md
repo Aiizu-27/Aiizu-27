@@ -82,18 +82,19 @@ Learn → Build → Break → Fix → Understand → Repeat
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=i2byluciia&layout=compact&theme=dracula&title_color=514575&icon_color=514575&text_color=ffffff&bg_color=0d1117"
+        src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=i2byluciia&layout=compact&theme=dark"
         height="180px"
       />
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=i2byluciia&show_icons=true&theme=dracula&title_color=514575&icon_color=514575&text_color=ffffff&bg_color=0d1117&count_private=true"
+        src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=i2byluciia&show_icons=true&theme=dark"
         height="180px"
       />
     </td>
   </tr>
 </table>
+
 
 ---
 
