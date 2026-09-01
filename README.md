@@ -134,16 +134,12 @@ Learn → Build → Break → Fix → Understand → Repeat
         height="180px"
       />
     </td>
-
-```
-<td>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=i2byluciia&show_icons=true&theme=dracula&title_color=514575&icon_color=514575&text_color=ffffff&bg_color=0d1117&count_private=true"
-    height="180px"
-  />
-</td>
-```
-
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=i2byluciia&show_icons=true&theme=dracula&title_color=514575&icon_color=514575&text_color=ffffff&bg_color=0d1117&count_private=true"
+        height="180px"
+      />
+    </td>
   </tr>
 </table>
 
