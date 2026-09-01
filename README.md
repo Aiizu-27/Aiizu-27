@@ -14,7 +14,7 @@
   <a href="mailto:luciiacampos.27@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-E88300?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/_lucia_27_/">
+  <a href="https://www.instagram.com/_luciia_27_/">
     <img src="https://img.shields.io/badge/INSTAGRAM-514575?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -156,7 +156,7 @@ Learn → Build → Break → Fix → Understand → Repeat
     <img src="https://img.shields.io/badge/EMAIL-E88300?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/_lucia_27_/">
+  <a href="https://www.instagram.com/_luciia_27_/">
     <img src="https://img.shields.io/badge/INSTAGRAM-514575?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
